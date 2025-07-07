@@ -175,3 +175,6 @@ class SentenceTransformerDataCollator:
                 break
 
         self._warned_columns.add(tuple(column_names))
+
+def test():
+    pass
